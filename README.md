@@ -1,6 +1,7 @@
 # Group (7)
 
 - administrator: ondrejkrejci
+- exercise URL: https://github.com/someuser/centralized-workflow-exercise
 
 # Centralized workflow exercise
 

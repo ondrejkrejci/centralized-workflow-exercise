@@ -1,3 +1,6 @@
+# Group (7)
+
+- administrator: ondrejkrejci
 
 # Centralized workflow exercise
 
